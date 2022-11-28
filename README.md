@@ -74,26 +74,17 @@ Salma.skills.push(...languages, ...frameworks, ...databases);
   <a href="https://www.linkedin.com/in/salma-darwish-bb7213129/">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.hackerrank.com/dev_akshat">
+  <a href="https://www.hackerrank.com/salmadarwish797">
     <img  alt="HackerRank" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/hacker_rank.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/dev-akshat">
+  <a href="https://github.com/SalmaDarwish">
     <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.instagram.com/a.k.s.h.a.t">
-    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.facebook.com/i.am.akshat.tamrakar">
+  <a href="https://www.facebook.com/salma.darwish.104">
     <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
   </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://twitter.com/AkshatTamraka12">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
-  </a>
-
 </p>
 
 <hr/>
