@@ -47,35 +47,7 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> , 
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> ,
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> ,
-    
 
-<hr/>
-
-<p align="left" >
-<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
-  <img align="right" alt="Angular" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/angular.svg"/>
- <img width="10%" alt="NestJS" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/nestjs.svg"/>
-  <img width="10%" alt="Flutter" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/flutterio.svg"/>
-  <br />
-  <br />
-  <img width="10%" alt="Django" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
-</p>
-<br/>
-<br/>
-<p  align="right" >
-  <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_upward.svg"/>
-  <br/>
-  <br/>
-  <h3 align="right">FAVOURITE FRAMEWORKS</h3>
-  <img  align="left" alt="TypeScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/typescriptlang.svg"/>
-  <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
-  <img align="left" alt="Dart" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/dartlang.svg"/>
-  <br />
-  <br />
-  <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
-  <br />
-  <br />
-</p>
 
 <hr/>
 
