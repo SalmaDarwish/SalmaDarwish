@@ -41,7 +41,7 @@
  
  - **Skills :** 
 
- <img src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+ <img src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=html&logoColor=white"/>
 
 
 
