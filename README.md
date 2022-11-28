@@ -83,17 +83,6 @@ Salma.skills.push(...languages, ...frameworks, ...databases);
   <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
 </p>
 
-<br/>
-
-<p align="center"> 
-  <samp>
-    Profile Views Count
-  </samp>
-</p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-akshat profile views" /> 
-</p>
 
 <hr/>
 
