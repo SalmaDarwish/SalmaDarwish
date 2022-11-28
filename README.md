@@ -58,13 +58,12 @@
 </p>
 
 ```javascript
-import { Akshat } from "Awesome";
+import { Salma } from "Developer";
 
-const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
-const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
-const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
+const languages = ["Python", "Typescript", "Javascript"];
+const frameworks = ["Angular"];
 
-Akshat.skills.push(...languages, ...frameworks, ...databases);
+Salma.skills.push(...languages, ...frameworks, ...databases);
 ```
 
 <hr/>
