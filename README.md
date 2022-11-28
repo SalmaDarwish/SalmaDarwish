@@ -16,9 +16,7 @@
 <p align="left">
   <samp>
     <br><br>
-    Full stack developer
-    <br><br>
-     & mobile developer...
+    Frontend developer
     <br><br>
     Focusing on building beautiful
     <br><br> 
