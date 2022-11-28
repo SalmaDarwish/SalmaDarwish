@@ -35,7 +35,9 @@
 - <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> , 
 - <img src="https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
-- **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />, <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width=80/>
+- **Frameworks :** 
+
+- <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
 - **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/cloud_firestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/postgresql.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/oracle.svg" width=80/>
 
