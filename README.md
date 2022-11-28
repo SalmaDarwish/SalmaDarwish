@@ -89,15 +89,3 @@ Salma.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-<p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
-</p>
-
-<p align="center">
-  Made with ❤️ in Bhopal
-</p>
-
------
-Credits: [Akshat Tamrakar](https://github.com/dev-akshat)
-
-Last Edited on: 05/12/2020
