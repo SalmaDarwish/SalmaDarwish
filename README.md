@@ -67,30 +67,11 @@ Salma.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-<p align="center">
-  <a href="https://github.com/dev-akshat/state-of-matter">
-    <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=state-of-matter" />
-  </a>
-  <a href="https://github.com/dev-akshat/HackerNews">
-    <img align="center" alt="HackerNews" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=HackerNews" />
-  </a>
-</p>
-
-<hr/>
-
-<p align="center">
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
-</p>
-
-
-<hr/>
-
 <h2 align="center">Find me on</h2>
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/akshat-tamrakar">
+  <a href="https://www.linkedin.com/in/salma-darwish-bb7213129/">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.hackerrank.com/dev_akshat">
