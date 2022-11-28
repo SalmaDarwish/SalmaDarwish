@@ -39,9 +39,7 @@
 
  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
-- **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/cloud_firestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/postgresql.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/database/oracle.svg" width=80/>
 
-- **Hobbies :** **_Manga📜Reading_,<img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/mini/xbox.svg" width=60/>** **_, Watching👀Anime_**
 
 <hr/>
 
