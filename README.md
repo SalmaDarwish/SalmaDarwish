@@ -38,6 +38,10 @@
 - **Frameworks :** 
 
  <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+ 
+ - **Skills :** 
+
+ <img src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
 
 
